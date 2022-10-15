@@ -1,0 +1,13 @@
+section{
+    border:5px solid black ;
+    margin: 50px;
+    padding: 30px;
+    background-color: grey;
+}
+section p{
+    color: white;
+}
+section img{
+    width: 800px;
+    display: flex;
+}
